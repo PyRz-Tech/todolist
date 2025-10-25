@@ -33,6 +33,6 @@ This is a Django-based project. Follow the steps below to set it up and run it l
 
 Below are placeholders for screenshots of the project. Replace the links with the actual image URLs.
 
-- [Screenshot 1](media/Login.png)
-- [Screenshot 2](media/Signup.png)
-- [Screenshot 3](media/Home.png)
+- <img src="media/Login.png" alt="Login Screenshot">
+- <img src="media/Signup.png" alt="Signup Screenshot">
+- <img src="media/Home.png" alt="Home Screenshot">
