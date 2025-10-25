@@ -36,4 +36,3 @@ Below are placeholders for screenshots of the project. Replace the links with th
 - [Screenshot 1](media/Login.png)
 - [Screenshot 2](media/Signup.png)
 - [Screenshot 3](media/Home.png)
-```
